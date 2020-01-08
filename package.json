@@ -1,0 +1,10 @@
+{
+    "name": "book-service",
+    "main": "app.js",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "express": "~4.0.0",
+        "jsonwebtoken": "^8.3.0",
+        "package.json": "^2.0.1"
+    }
+}
