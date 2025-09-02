@@ -1,0 +1,11 @@
+{
+  "key": "SCRUM-2",
+  "summary": "create a unit test cases for ServiceHandler file.",
+  "description": "create a unit test cases for ServiceHandler file and make sure it covers 100% code coverage.",
+  "status": "To Do",
+  "priority": "Medium",
+  "assignee": "Sathya Narayanan C",
+  "reporter": "Sathya Narayanan C",
+  "created": "2025-08-09T21:18:19.972+0800",
+  "updated": "2025-08-09T21:18:20.335+0800"
+}
